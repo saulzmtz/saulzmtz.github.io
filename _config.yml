@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "saúl z. martínez"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "saulzmtz.github.io"
 title_separator          : "-"
 name                     : &name "saúl z. martínez"
 description              : &description "M.S. Advanced Data Analytics"
@@ -26,10 +26,10 @@ author:
   name             : "saúl z. martínez"
   pronouns         : # example: "she/her"  
   bio              : "M.S. Advanced Data Analytics"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : ""
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "saulzmartinez@gmail.com" 
 
   # Academic websites
   academia         : # URL
