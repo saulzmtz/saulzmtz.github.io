@@ -9,4 +9,6 @@ tags:
 
 [Final project for INFO 5709 Data Visualization and Communication:](https://sites.google.com/view/5709final-saulmtz/home?authuser=0) 
 
+An analysis of the AustinISD Texas Education Agency accountability statewide ratings for 2019. 
+
 
