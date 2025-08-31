@@ -1,6 +1,6 @@
 ---
 title: 'Information Science to Data Science?!'
-date: 2021-05-30
+date: 2021-05-15
 permalink: /posts/2012/08/infotodata/
 tags:
   - coursework
