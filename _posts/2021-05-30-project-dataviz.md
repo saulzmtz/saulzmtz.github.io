@@ -11,4 +11,4 @@ tags:
 
 An analysis of the AustinISD Texas Education Agency accountability statewide ratings for 2019. 
 
-
+![Data Visualization Project](/images/data-viz.png)
