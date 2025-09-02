@@ -5,6 +5,8 @@ permalink: /posts/2021/05/project-dataviz/
 tags:
   - coursework
   - dataviz
+  - education
+  - plotly
 ---
 
 [Final project for INFO 5709 Data Visualization and Communication:](https://sites.google.com/view/5709final-saulmtz/home?authuser=0) 
