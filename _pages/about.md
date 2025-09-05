@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /about/
 title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I love data — exploring it, wrangling it, and uncovering the stories hidden inside. I recently earned my M.S. in Advanced Data Analytics, where I gained hands-on experience in statistical analysis with Python and Excel, building interactive data visualizations in Tableau and Plotly, and creating and evaluating machine learning models in Jupyter Notebooks and Google Colab.
