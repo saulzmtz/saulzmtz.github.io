@@ -20,9 +20,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /
-    
   - title: "About"
     url: /about/
     
